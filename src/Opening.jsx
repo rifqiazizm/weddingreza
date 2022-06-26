@@ -1,10 +1,10 @@
 import React , {useState} from 'react'
 import { Animated } from 'react-animated-css';
-import { Container,Row,Col,Button } from 'react-bootstrap';
+import { Container,Row,Col } from 'react-bootstrap';
 import Nama from './images/Nama.png';
 import Bunga from './images/Bunga.png';
 import Inv from './images/invited.png';
-import Song from './souljah.mp3'
+import Song from './qosidah.mp3'
 import { Link } from 'react-router-dom';
 
 function Opening() {
