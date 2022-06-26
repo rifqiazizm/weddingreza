@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react'
+import React from 'react'
 import {Container,Row,Col } from 'react-bootstrap'
 import {Animated} from 'react-animated-css'
 import Peta from './images/hal5/peta.png'

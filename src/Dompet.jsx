@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react'
+import React, { useState} from 'react'
 import {Container,Row,Col,Modal,Button } from 'react-bootstrap'
 import {Animated} from 'react-animated-css'
 import Bunga from './images/hal6/bunga.png'
@@ -6,9 +6,6 @@ import Nama from './images/hal6/nama.png'
 import Isi1 from './images/hal6/isi1.png'
 import Isi2 from './images/hal6/isi2.png'
 import Keluarga from './images/hal6/keluaga.png'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMoneyBill1Wave } from  '@fortawesome/free-solid-svg-icons';
-
 
 const Dompet = () => {
     const [show, setShow] = useState(false);

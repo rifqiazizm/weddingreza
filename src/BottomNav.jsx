@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCalendarAlt,faHome,faWallet,faLocationDot } from  '@fortawesome/free-solid-svg-icons';
-import { Navbar,Button, Row, Col,Container,Nav, NavItem ,NavLink} from 'react-bootstrap';
+import { Navbar,Nav, NavItem } from 'react-bootstrap';
 import {Link,Outlet} from 'react-router-dom';
 
 function BottomNav() {

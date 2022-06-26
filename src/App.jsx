@@ -2,8 +2,6 @@ import { BrowserRouter as Router, Route,Routes } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import BottomNav from './BottomNav';
-import Home from './Home';
-import Nav2 from './Nav2';
 import Gmaps from './Gmaps';
 import Opening from './Opening';
 import Keluarga from './Keluarga';
