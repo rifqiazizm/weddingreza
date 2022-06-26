@@ -34,7 +34,7 @@ const Dompet = () => {
           <Modal.Body>
             <p className="rek">
                 Bagi yang ingin mengutarakan rasa syukur dan berbagi kebahagiaan secara materi 
-                dengan mempelai silahkan bisa transfer melalui
+                dengan mempelai silahkan bisa transfer ke
             </p>
             <p className="rek2">
              Rekening BCA
