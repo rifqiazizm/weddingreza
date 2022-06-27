@@ -83,7 +83,7 @@ const Mempelai = () => {
    
 
           <Animated animationIn='zoomIn'  animationInDelay={800}>
-            <p className="ket2">Wasalamualaikum warahmatullahi wabarakatuh</p>
+            <p className="ket2">Wassalamu'alaikum Wa rahmatullahi Wa barakatuh</p>
           </Animated>
           <br />
           
