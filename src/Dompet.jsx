@@ -97,7 +97,7 @@ const Mempelai = () => {
           <img src={Keluarga} alt="alamat" width={300}/>
           </Animated>
           <br />
-          <br />
+   
 
           <Animated animationIn='zoomIn'  animationInDelay={2000}>
             <Dompet />
