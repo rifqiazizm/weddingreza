@@ -49,7 +49,7 @@ const Dompet = () => {
           </Modal.Body>
           <Modal.Footer>
             <Button variant="secondary" onClick={handleClose}>
-              Close
+              Tutup
             </Button>
         
           </Modal.Footer>
