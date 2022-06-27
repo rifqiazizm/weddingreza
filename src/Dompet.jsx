@@ -33,7 +33,7 @@ const Dompet = () => {
           </Modal.Header>
           <Modal.Body>
             <p className="rek">
-                Bagi yang ingin mengutarakan rasa syukur dan berbagi kebahagiaan secara materi 
+                Bagi yang ingin mengutarakan rasa syukur dan berbagi kebahagiaan
                 dengan mempelai silahkan bisa transfer ke
             </p>
             <p className="rek2">

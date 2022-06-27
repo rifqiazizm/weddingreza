@@ -24,7 +24,7 @@ function BottomNav() {
       },{
         route: "/app/dompet",
         icon: faWallet,
-        label: "Dompet"
+        label: "Penutup"
       }
     ]
   return (
