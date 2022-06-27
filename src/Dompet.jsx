@@ -94,9 +94,9 @@ const Mempelai = () => {
           <img src={Nama} alt="alamat" width={200}/>
           </Animated>
           <Animated animationIn='zoomIn'  animationInDelay={1400}>
-          <img src={Keluarga} alt="alamat" width={300}/>
+          <img src={Keluarga}  alt="alamat" width={300}/>
           </Animated>
-          <br />
+        
    
 
           <Animated animationIn='zoomIn'  animationInDelay={2000}>
