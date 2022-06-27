@@ -42,6 +42,9 @@ const Keluarga = () => {
                     <Animated animationIn='zoomIn'  animationInDelay={1000} >
                         <img className='ortu' src={Ortu} alt="ortu" width={340} height={27} />
                     </Animated>
+                    <div className="pemisah"></div>
+                            <div className="pemisah"></div>
+                            <div className="pemisah"></div>
                 </Col>
             </Row>
         </Container>

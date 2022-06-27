@@ -103,7 +103,9 @@ const Mempelai = () => {
             <Dompet />
           
           </Animated>
-
+          <div className="pemisah"></div>
+                            <div className="pemisah"></div>
+                            <div className="pemisah"></div>
           </Col>
         </Row>
       </Container>

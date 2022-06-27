@@ -74,7 +74,7 @@ const Akad = () => {
                             <img src={Akadimg} style={{marginTop: '40px'}} alt="akad" width={150} height={70}  />
                         </Animated>
                         <Animated animationIn='zoomIn'  animationInDelay={800}>
-                            <img src={Walimatul} style={{marginTop: '10px'}}  alt="walimatul" width={150} height={70}  />
+                            <img src={Walimatul} style={{marginTop: '10px'}}  alt="walimatul" width={200} height={70}  />
                         </Animated>
                         <Animated animationIn='zoomIn'  animationInDelay={1000}>
                             <img src={Doa} style={{marginTop: '10px'}}  alt="doa" width={250} height={100}  />
@@ -121,6 +121,13 @@ const Akad = () => {
 
 
                             </Row>
+                            <div className="pemisah">
+                            
+                            </div>
+                            <div className="pemisah"></div>
+                            <div className="pemisah"></div>
+                            <div className="pemisah"></div>
+
 
                 </Col>
             </Row>
